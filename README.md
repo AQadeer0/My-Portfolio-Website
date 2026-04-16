@@ -58,7 +58,7 @@ Then open index.html in your browser.
 📞 Contact Me
 Email: mainidea27@gmail.com
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/AQadeer0
 
 LinkedIn: https://linkedin.com/in/your-profile
 
