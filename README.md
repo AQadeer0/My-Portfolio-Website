@@ -38,8 +38,10 @@ Smooth Navigation ⚡
 
 📸 Preview
 
-Add screenshots of your website here
-
+![output]()
+![output]()
+![output]()
+![output]()
 🔗 Live Demo
 
 👉 Click Here to View Website
